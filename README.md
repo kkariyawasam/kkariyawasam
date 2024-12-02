@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kkariyawasam
+- 👋 Hi, I’m @kalpani kariyawasam
 - 👀 I’m interested in Java, SpringBoot, Microservices, REST, Hibernate, Database
 - 🌱 I’m currently learning AWS, React
 - 📫 How to reach me kad.kariyawasam@gmail.com
