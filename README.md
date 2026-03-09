@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalpani kariyawasam
-- 👀 I’m interested in Java, SpringBoot, Microservices, REST, Hibernate, Database, LangChain,LLM
+- 👀 I’m interested in Java, SpringBoot, Microservices, REST, Hibernate, Database, LangChain, LLM
 - 🌱 I’m currently learning AWS, AI
 - 📫 How to reach me kad.kariyawasam@gmail.com
 
